@@ -1,6 +1,6 @@
 {
     "name": "Codemirror",
-    "version": "5.48.2",
+    "version": "5.48.4",
     "description": "Codemirror bundle for Pagekit CMS.",
     "homepage": "https://github.com/uatrend/codemirror",
     "main": "codemirror.min.js"
