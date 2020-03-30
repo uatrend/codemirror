@@ -1,5 +1,5 @@
 ## [Codemirror](http://codemirror.net/) bundle for Pagekit CMS
-Bundle Version - **5.51.0**
+Bundle Version - **5.52.2**
 #### Bundle contains:
 |**Mode** | **Addon** |
 |:-------:|:---------:|
