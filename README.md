@@ -1,6 +1,6 @@
 ### [Codemirror](http://codemirror.net/) bundle for Pagekit CMS
 
-<table border="1">
+<table border="0">
     <tr>
         <th align="left">Bundle&nbsp;content</th>
         <th align="left">Description</th>
