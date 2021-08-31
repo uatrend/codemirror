@@ -1,22 +1,13 @@
-## [Codemirror](http://codemirror.net/) bundle for Pagekit CMS
-Bundle Version - **5.58.2**
-#### Bundle contains:
-|**Mode** | **Addon** |
-|:-------:|:---------:|
-|clike | anyword-hint |
-|css | closebrackets |
-|gfm | closetag |
-|htmlembedded | css-hint |
-|htmlmixed | dialog |
-|javascript | html-hint |
-|markdown | javascript-hint |
-|php | mark-selection |
-|xml | match-highlighter |
-|xquery | matchbrackets |
-|yaml | matchtags |
-|| overlay |
-|| placeholder |
-|| fullscreen (F11) |
-|| show-hint |
-|| xml-fold |
-|| xml-hint |
+### [Codemirror](http://codemirror.net/) bundle for Pagekit CMS
+
+<table border="1">
+    <tr>
+        <th align="left">Bundle&nbsp;content</th>
+        <th align="left">Description</th>
+    </tr>
+    <tr>
+        <td>Language&nbsp;modes</td><td>clike, css, gfm, htmlembedded, htmlmixed, javascript, markdown, php, xml, xquery, yaml </td></tr>
+    <tr>
+        <td>Addons</td><td>anyword-hint, closebrackets, closetag, css-hint, dialog, html-hint, javascript-hin, mark-selection, match-highlighter, matchbrackets, matchtags, overlay, placeholder, fullscreen, show-hint, xml-fold, xml-hint</td>
+    </tr>
+</table>
